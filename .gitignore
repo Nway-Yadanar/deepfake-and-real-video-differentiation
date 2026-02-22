@@ -1,0 +1,27 @@
+# Ignore venv
+.deepfake/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore  vids folders
+combined_data/
+
+
+# Ignore  videos, images
+data/
+*.mp4
+*.jpg
+*.png
+*.zip
+
+# Ignore model checkpoints
+*.pt
+
+# Ignore IDE or editor specific files
+.vscode/
+.idea/
