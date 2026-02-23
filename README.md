@@ -15,7 +15,7 @@ The architecture used in this project is based on a **ResNet-18 model**, modifie
 ## Dataset and Model Weights
 The dataset and model weights are too large to be hosted on GitHub. You can download them from Google Drive:
 
-- **[Download Dataset and Model Weights]()**
+- **https://drive.google.com/drive/folders/1nhyOuWnRcuB_H00eREH-4CDdNje_CLy2?usp=drive_link**
 
 Make sure to download both the **dataset** (for training) and the **model weights** (`best_model.pt`).
 
